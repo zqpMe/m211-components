@@ -1,0 +1,1 @@
+import{d as t,c,a as s,o as a,r as m}from"./index-4612116b.js";const p=t({__name:"index",setup(r){const o=e=>{console.log("父组件item==>",e)};return(e,_)=>{const n=m("m-choose-city");return a(),c("div",null,[s(n,{onChangeItem:o})])}}});export{p as default};
