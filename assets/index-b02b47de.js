@@ -1,0 +1,1 @@
+import{d as s,c,a as r,o as l,r as _}from"./index-f624128e.js";const h=s({__name:"index",setup(d){const n=e=>{console.log("startChange",e)},o=e=>{console.log("endChange",e)},t={size:"mini",clearable:!1};return(e,m)=>{const a=_("m-choose-date");return l(),c("div",null,[r(a,{startOptions:t,onStartChange:n,onEndChange:o})])}}});export{h as default};
